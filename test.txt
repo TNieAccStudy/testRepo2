@@ -1,1 +1,4 @@
 hello xin chao 
+
+
+test file changed is can merge: test1 branch
