@@ -1,2 +1,4 @@
 hello xin chao 
 text changed test
+
+test changed with value in 2 file is changed: main branch
